@@ -1,5 +1,3 @@
-# FRONT-JR
-# Teste Técnico Desenvolvedor(a) Frontend Júnior
 # Desafio de Desenvolvimento Front-end (React JS/Next.js) 🔧
 
 Olá candidato(a)!
@@ -12,13 +10,13 @@ Desenvolva uma aplicação de tela de login que, após o login bem-sucedido, red
 
 ## Requisitos Técnicos: 🛠️
 
-1. Utilize React JS e Next.js para o desenvolvimento da aplicação.
+1. Utilize React JS para o desenvolvimento da aplicação, Next.js será diferencial.
 2. Crie uma tela de login com formulário contendo campos de usuário e senha.
 3. Implemente a lógica de autenticação (pode ser simulada no front-end).
 4. Após o login, o usuário deve ser redirecionado para uma página de lista de clientes.
 5. Utilize a API pública "Reqres" (`https://reqres.in/api/users`) para listar os clientes. Você pode usar os dados fictícios retornados pela API para criar a lista de clientes na sua aplicação.
 6. Adicione filtros à lista de clientes, permitindo que o usuário filtre os clientes por nome, email e sobrenome.
-7. Utilize boas práticas de desenvolvimento, como organização de código, responsividade, HTML semântico e tratamento de erros.
+7. Utilize boas práticas de desenvolvimento, como organização de código, HTML semântico, responsividade e tratamento de erros.
 8. Preocupe-se com a UX (User Experience) e UI (User Interface) do projeto, pois serão levadas em consideração na avaliação.
 9. Utilize Git com boas mensagens de commit.
 
@@ -38,6 +36,7 @@ Desenvolva uma aplicação de tela de login que, após o login bem-sucedido, red
 ## Observações: 📌
 
 - Este desafio é individual e não é permitido o compartilhamento de código entre candidatos.
+- Não utilize frameworks de estilo como Tailwind CSS ou Material-UI.
 - Qualquer dúvida ou dificuldade durante o desafio, entre em contato conosco.
 
 Estamos ansiosos para ver o seu trabalho e deseja-lhe boa sorte neste desafio!
