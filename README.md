@@ -42,4 +42,4 @@ Desenvolva uma aplicação de tela de login que, após o login bem-sucedido, red
 Estamos ansiosos para ver o seu trabalho e deseja-lhe boa sorte neste desafio!
 
 Atenciosamente,
-[VOKERÊ] Equipe de Recrutamento
+VOKERÊ Equipe de Recrutamento
